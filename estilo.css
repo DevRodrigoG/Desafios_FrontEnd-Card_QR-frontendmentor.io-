@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+.Container-qr{
+    background-color: #D5E0EE;
+    width: 80%;
+/*     height: 55%;
+ */    margin: 50px auto;
+    padding: 35px 0;
+    border-radius: 10px
+}
+.card-qr{
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    padding: 22px;
+    border: rgba(0, 0, 0, 0.46) 2px solid;
+    border-radius: 10px;
+}
+.img{
+    margin: auto;
+    width: 300px;
+    margin-bottom: 15px;
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+.Description h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+.Description p{
+    text-align: center;
+}
